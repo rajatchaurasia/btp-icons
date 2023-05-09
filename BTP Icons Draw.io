@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T23:42:22.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-hZRM8OPBBdEQ9vB80Qo" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T23:42:51.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XVWcM2LM7dWFJ96S7i57" version="21.2.9" type="github">
   <diagram name="Page-1" id="Rxg03DFnj5MA50Hy5Ht3">
     <mxGraphModel dx="1276" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="355" width="560" height="385" as="geometry" />
         </mxCell>
         <mxCell id="TYo47KqqMtGg2k5XoKrn-3" value="&lt;h3&gt;&lt;font color=&quot;#074d92&quot;&gt;SAP BTP&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="80" height="60" as="geometry" />
+          <mxGeometry x="335" y="300" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TYo47KqqMtGg2k5XoKrn-5" value="&lt;h3&gt;&lt;font color=&quot;#074da7&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#074da7&quot;&gt;&lt;span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider hb b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Azure OpenAI GPT-4&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#074d92;" vertex="1" parent="1">
           <mxGeometry x="840" y="350" width="130" height="390" as="geometry" />
@@ -105,6 +105,9 @@
             <mxPoint x="574" y="517.5" as="sourcePoint" />
             <mxPoint x="624" y="467.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TYo47KqqMtGg2k5XoKrn-48" value="&lt;h3&gt;&lt;font color=&quot;#074d92&quot;&gt;Azure&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="300" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
